@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.3">
   <diagram name="第 1 页" id="qVhMyJ4GFEuaJN8UUqD1">
-    <mxGraphModel dx="1838" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1225" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -423,6 +423,9 @@
         </mxCell>
         <mxCell id="1PzzervLume55XSzth8z-111" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font&gt;&lt;b&gt;Patch高维嵌入&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontSize=18;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1410" y="414" width="50" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1PzzervLume55XSzth8z-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1PzzervLume55XSzth8z-112" target="1PzzervLume55XSzth8z-114">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1PzzervLume55XSzth8z-112" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;深度卷积&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontSize=18;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1480" y="414" width="50" height="150" as="geometry" />
